@@ -1,7 +1,7 @@
 <!-- 🌍 Habtamu Amare GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Habtamu Amare</h1>
-<h3 align="center">🌐 Full Stack Web Developer | 🌍 International Freelancer</h3>
+<h3 align="center">🌐 Full Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/habtedev" width="160" style="border-radius: 50%; border: 4px solid #007acc;" alt="Habtamu Avatar" />
