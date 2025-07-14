@@ -19,7 +19,7 @@
 - 🌱 Learning: **React**, **Prisma**, **Docker**, **PostgreSQL**
 - 🛡️ Backend focus: **Security**, **Authentication**, **Clean APIs**
 - 💬 Ask me about: **REST APIs**, **XSS Protection**, **CSRF**, **JWT**
-- 📫 Contact: [habtamu.dev@gmail.com](mailto:habtamu.dev@gmail.com)
+- 📫 Contact: [habtamu.dev@gmail.com](mailto:habtamudev@gmail.com)
 - ⚡ Fun fact: I love building 💻 at night while listening to 🎧 chill music.
 
 ---
