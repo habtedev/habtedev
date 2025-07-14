@@ -1,7 +1,7 @@
 <!-- ✅ Habtamu Amare GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Habtamu Amare</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🌍 Based in Ethiopia 🇪🇹</h3>
+<h3 align="center">💻 Full Stack Web Developer </h3>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/habtedev" width="150" style="border-radius: 50%;" />
