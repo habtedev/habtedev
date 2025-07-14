@@ -20,7 +20,7 @@
 - 🛡️ Backend Focus: **Security**, **Authentication**, **Clean APIs**
 - 💬 Ask me about: **REST APIs**, **XSS**, **CSRF**, **JWT**
 - 📫 Reach me: [habtamu.dev@gmail.com](mailto:habtamudev@gmail.com)
-- 🎧 Fun fact: I love coding at night while listening to classical music.
+- 🎧 Fun fact: I love coding at night while listening to classical.
 
 ---
 
