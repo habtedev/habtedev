@@ -4,7 +4,7 @@
 <h3 align="center">🌐 Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/habtedev" width="160" style="border-radius: 50%; border: 4px solid #007acc;" alt="Habtamu Avatar" />
+  <img src="https://avatars.githubusercontent.com/habtedev" width="100%" style="border-radius: 50%; border: 4px solid #007acc;" alt="Habtamu Avatar" />
 </p>
 
 <p align="center">
