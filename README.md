@@ -65,14 +65,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=habtedev&theme=tokyonight&hide_border=true" width="90%" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
