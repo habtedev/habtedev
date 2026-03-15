@@ -94,7 +94,7 @@ My development approach emphasizes **clean architecture, secure API design, and 
 <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:Habtamudev@gmail.com">
+<a href="mailto:habtamudev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
