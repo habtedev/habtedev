@@ -1,119 +1,258 @@
-<!-- 🌍 Habtamu Amare – GitHub Profile -->
+<div align="center">
 
-<h1 align="center">Habtamu Amare</h1>
-<h3 align="center">Backend-Focused Full Stack Developer</h3>
+<!-- ANIMATED TYPING HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&height=60&lines=Habtamu+Amare;Backend-Focused+Full+Stack+Developer;Building+Scalable+Web+Applications;Node.js+%7C+Express.js+%7C+React+%7C+TypeScript;AI+%26+Software+Engineering+Enthusiast" />
 
-<p align="center">
-  Building scalable web applications with modern technologies and secure backend architecture.
+<!-- ANIMATED WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&section=header&fontSize=0" width="100%"/>
+
+<!-- PROFILE PHOTO WITH GLOW & ANIMATION -->
+<img src="https://github.com/user-attachments/assets/3caeb335-0728-4ffd-8358-376562481871" 
+     width="170" 
+     style="border-radius: 50%; 
+            border: 4px solid #6C63FF; 
+            box-shadow: 0 0 30px rgba(108, 99, 255, 0.5);
+            transition: transform 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.05)'"
+     onmouseout="this.style.transform='scale(1)'"
+     alt="Habtamu Amare"/>
+
+<!-- NAME WITH GRADIENT -->
+<h1 style="background: linear-gradient(135deg, #6C63FF, #FF6584); 
+           -webkit-background-clip: text; 
+           -webkit-text-fill-color: transparent;
+           font-size: 2.5rem;
+           margin: 0.5rem 0;">
+  Habtamu Amare
+</h1>
+
+<!-- ROLE BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Backend_Focused-Engineer-6C63FF?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN_Stack-Developer-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Enthusiast-FF6584?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/habtedev" width="150" alt="Habtamu Avatar" style="border-radius:50%" />
+<!-- STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_OPPORTUNITIES-00C851?style=for-the-badge&logo=clockify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=habtedev&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Backend-Focused+Full+Stack+Developer;Node.js+%7C+Express+%7C+React;Secure+REST+API+Development;Clean+Architecture+%7C+Scalable+Systems" />
+<!-- SOCIAL LINKS WITH HOVER EFFECT -->
+<p>
+  <a href="https://www.linkedin.com/in/habtamudev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/habtedev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:habtamudev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Computer Science student and backend-focused full stack developer** passionate about building scalable, maintainable, and secure web applications.
+> *Computer Science student & backend architect crafting secure, scalable systems*
 
-My development approach emphasizes **clean architecture, secure API design, and performance-aware systems**. I enjoy turning complex problems into practical software solutions while continuously improving through real-world projects.
+I'm a **backend-focused full stack developer** based in Ethiopia 🇪🇹, passionate about building **production-ready applications** with clean architecture and enterprise-grade security.
 
-**Current Focus**
+My sweet spot is turning complex requirements into elegant, maintainable software that solves real-world problems.
 
-- Building **production-ready MERN applications**
-- Designing **secure REST APIs**
-- Improving **system architecture and scalability**
-- Expanding into **cross-platform mobile development**
+### 🎯 What I'm Focused On
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 🧰 Technology Stack
+**🎨 Frontend Excellence**
+- React.js & Next.js mastery
+- TypeScript best practices
+- Responsive UI/UX design
 
-### Frontend
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white"/>
-</p>
+</td>
+<td width="50%">
 
-### Backend
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens"/>
-</p>
+**⚙️ Backend Architecture**
+- RESTful API design
+- Authentication systems
+- Database optimization
 
-### Databases
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### Security & Backend Practices
-<p>
-<img src="https://img.shields.io/badge/Helmet_Security-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CSRF_Protection-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bcrypt_Password_Hashing-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Input_Validation-607D8B?style=for-the-badge"/>
-</p>
+**🔐 Security First**
+- JWT & OAuth
+- Rate limiting
+- Input validation
 
-### Developer Tools
-<p>
-<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker"/>
-</p>
+</td>
+<td width="50%">
+
+**📱 Mobile Journey**
+- React Native
+- Flutter basics
+- Cross-platform apps
+
+</td>
+</tr>
+</table>
+
+### 💡 My Philosophy
+
+> *"Great code is read more than it's written. I write for humans first, computers second."*
 
 ---
 
-## 📈 Current Learning
+## 🛠️ Technical 
 
-- Advanced **system design**
-- **Prisma ORM**
-- **Docker containerized applications**
-- **React Native & Flutter mobile development**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/habtamudev">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:habtamudev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/habtedev">
-<img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github"/>
-</a>
-
+### **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,sass,figma" />
 </p>
 
----
+### **Backend Engineering**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman" />
+</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=habtedev&label=Profile+Views&color=blue&style=flat-square" />
+### **Database Management**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
+
+### **DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode" />
+</p>
+
+### **Security & Best Practices**
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BCrypt-009688?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helmet.js-4CAF50?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rate_Limiting-FF6F00?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
 
 ---
 
-<p align="center">
+## 📊 GitHub Analytics
 
-“Secure systems are built through thoughtful design, not just code.”
+<div align="center">
 
-</p>
+<!-- STATS CARDS WITH MODERN THEME -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=habtedev&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&border_radius=10&border_color=6C63FF"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habtedev&layout=compact&theme=radical&bg_color=0D1117&title_color=6C63FF&border_radius=10&border_color=6C63FF&langs_count=8"/>
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=habtedev&theme=radical&background=0D1117&border=6C63FF&stroke=6C63FF&ring=6C63FF&fire=FF6584&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=FFFFFF"/>
+
+<br/><br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=habtedev&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=FF6584&area_color=6C63FF"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=habtedev&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Key Features |
+|---------|------------|---------------|
+| 🛒 **TrendMart** | MERN, ML, TypeScript | AI recommendations, personalized ranking, analytics |
+| 🔐 **AuthSystem** | Node.js, Express, MongoDB | JWT, refresh tokens, RBAC, rate limiting |
+| 💬 **ChatApp** | Socket.io, React, MongoDB | Real-time messaging, typing indicators, rooms |
+| 📊 **Dashboard** | React, PostgreSQL, Express | Analytics, user management, data export |
+
+</div>
+
+> *Check out my pinned repositories for live demos and detailed documentation!*
+
+---
+
+## 📈 Currently Leveling Up
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎯_System_Design-Deep_Dive-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📦_Microservices-Architecture-FF6584?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️_AWS_Cloud-Fundamentals-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_AI_Engineering-Practice-00C851?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐳_Kubernetes-Beginner-2496ED?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Amazing
+
+<div align="center">
+
+### I'm open to collaborations, freelance work, and exciting opportunities!
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://www.linkedin.com/in/habtamudev">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:habtamudev@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/habtedev">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *"Build with purpose. Design for scale. Code with impact."*
+
+---
+
+**Thanks for visiting!**  
+*Let's create something extraordinary together 🚀*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer"/>
+
+</div>
+
+<!-- HTML/CSS for hover effect (inline styles are supported) -->
+<style>
+  img[alt="Habtamu Amare"] {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+  }
+</style>
