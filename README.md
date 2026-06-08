@@ -167,13 +167,6 @@ My sweet spot is turning complex requirements into elegant, maintainable softwar
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=habtedev&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
-</div>
-
----
 
 ## 🚀 Featured Projects
 
