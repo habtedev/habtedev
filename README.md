@@ -250,9 +250,9 @@ My sweet spot is turning complex requirements into elegant, maintainable softwar
 </div>
 
 <!-- HTML/CSS for hover effect (inline styles are supported) -->
-<style>
+<!-- <style>
   img[alt="Habtamu Amare"] {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
   }
-</style>
+</style> -->
